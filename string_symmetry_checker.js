@@ -39,5 +39,5 @@ function symmetry(str) {
 
 //console.log(symmetry("123454321"));  // for length 9 final index 8
 //console.log(symmetry("12344321"))  // for length 8 final index is 7
-console.log(symmetry("121"))
-console.log(symmetry("_eye"))
+console.log(symmetry("323"))
+console.log(symmetry("_madam"))
